@@ -1,1 +1,5 @@
-# exercism-elixir
+# Elixir
+
+```sh
+$ docker compose run elixir bash
+```
